@@ -3,6 +3,11 @@ This is a collection of machine learning tutorials from different sources, which
 
 ## [A Beginner's Guide to Restricted Boltzmann Machines (RBMs)](https://skymind.ai/wiki/restricted-boltzmann-machine)
 
-## [Wasserstein metric的通俗解释](https://zhuanlan.zhihu.com/p/26988777)
+## GANs
+### [Wasserstein metric的通俗解释](https://zhuanlan.zhihu.com/p/26988777)
 
-## [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
+## Optimization
+### [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
+
+## Time Series Data
+### [Time series classification with Tensorflow](https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflow/)
