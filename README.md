@@ -11,3 +11,7 @@ This is a collection of machine learning tutorials from different sources, which
 
 ## Time Series Data
 ### [Time series classification with Tensorflow](https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflow/)
+
+
+## Importance Sampling
+### [Importance Sampling (重要性采样)介绍](https://mathpretty.com/12375.html)
